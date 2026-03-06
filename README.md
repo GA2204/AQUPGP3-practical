@@ -16,7 +16,7 @@ Click below to open RStudio in your browser:
 The data files for this practical are **not included in this repository**.
 They are provided privately via Canvas.
 
-Before running the script:
+ Before running the script:
 
 1. Download the two data files from Canvas.
 2. In Binder RStudio, open the **Files** pane.
@@ -58,3 +58,6 @@ AQUPGP3-practical/
 This environment is temporary.  
 Anything saved inside Binder will be lost when you close the session.  
 **Download your output files if you want to keep them.**
+
+
+
