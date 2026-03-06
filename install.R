@@ -10,6 +10,5 @@ BiocManager::install(c("snpStats", "SNPRelate"), update = FALSE, ask = FALSE)
 install.packages(c(
   "dartR.base",
   "dartRverse",
-  "directlabels",
-  "tidyverse"
-), dependencies = TRUE)
+  "directlabels"
+  ), dependencies = TRUE)
