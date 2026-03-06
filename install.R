@@ -13,8 +13,3 @@ install.packages(c(
   "directlabels",
   "tidyverse"
 ), dependencies = TRUE)
-
-
-# Install IRkernel so R appears as a kernel in JupyterLab
-install.packages("IRkernel")
-IRkernel::installspec(user = FALSE)
